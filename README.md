@@ -1,7 +1,11 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Opeoluwa Ogun 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Opeoluwa Ogun 🤓, a data analyst, educator, and content creator. With a strong background in healthcare, HR, sales, and retail, I bring a unique perspective to solving business problems through data.
+
+I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning data into insights that drive smart decisions. I'm actively seeking opportunities where I can apply my analytical skills to make a measurable impact.
+
+ 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
