@@ -26,8 +26,8 @@ I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning da
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Tiktok Analytics Dashboard.**
+![image](1 TIKTOK DASHBOARD.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
