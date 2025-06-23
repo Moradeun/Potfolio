@@ -27,6 +27,7 @@ I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning da
 *A glimpse of some of the projects I've been working on.*
 
 **Tiktok Analytics Dashboard.**
+
 ![My Dashboard](TIKTOK DASHBOARD.PNG)
 
 
@@ -60,15 +61,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:onaseluopeoluwa@gmail.com">opeoluwaonaselu@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(44) 740-534-9909</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Scotland, United Kingdom</td>
     </tr>
     <tr>
       <td>⬇️</td>
