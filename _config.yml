@@ -1,3 +1,5 @@
 title: OPE OGUN
 description: A showcase of my data analytics projects
-theme: jekyll.theme.minimal
+remote_theme: pages-themes/minimal
+plugins:
+- jekyll-remote-theme
