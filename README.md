@@ -27,7 +27,9 @@ I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning da
 *A glimpse of some of the projects I've been working on.*
 
 **Tiktok Analytics Dashboard.**
-![image](1 TIKTOK DASHBOARD.PNG)
+![My Dashboard](dashboard.png)
+
+
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
