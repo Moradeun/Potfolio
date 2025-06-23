@@ -5,19 +5,20 @@ Hello! I'm Opeoluwa Ogun 🤓, a data analyst, educator, and content creator. Wi
 
 I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning data into insights that drive smart decisions. I'm actively seeking opportunities where I can apply my analytical skills to make a measurable impact.
 
- 
-
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*I turn data into insight that drives action.*
+*With a background in healthcare, human resources, sales, and retail, I bridge the gap between domain knowledge and data analysis. I focus on delivering clear, impactful solutions using real-world data.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Cleaning & Analysis using Python (Pandas, NumPy), SQL and Excel.**
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅Business Intelligence & Dashboards with Power BI and SQL.**
+
+**- ✅ Data-Driven Storytelling for non-technical stakeholders.**
+
+**- ✅ Problem Solving through exploratory data analysis and insight generation**
 
 
 <!--Section 2: List 3-4 key projects-->
