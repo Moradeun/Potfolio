@@ -27,7 +27,7 @@ I'm skilled in Excel, SQL, Power BI, and Python, and passionate about turning da
 *A glimpse of some of the projects I've been working on.*
 
 **Tiktok Analytics Dashboard.**
-![My Dashboard](dashboard.png)
+![My Dashboard](TIKTOK DASHBOARD.PNG)
 
 
 
